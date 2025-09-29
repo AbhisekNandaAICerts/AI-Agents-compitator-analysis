@@ -1,0 +1,682 @@
+[
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-18T14:39:41.276Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": null,
+        "document_page_count": null,
+        "embedded_links": [
+            "https://www.linkedin.com/feed/hashtag/genai",
+            "https://www.linkedin.com/feed/hashtag/amazonsagemaker",
+            "https://www.linkedin.com/feed/hashtag/genaitools",
+            "https://www.linkedin.com/feed/hashtag/newsletter",
+            "https://www.linkedin.com/feed/hashtag/awstraining",
+            "https://www.linkedin.com/feed/hashtag/netcomlearning"
+        ],
+        "external_link_data": null,
+        "hashtags": [
+            "#GenAI",
+            "#AmazonSageMaker",
+            "#GenAITools",
+            "#Newsletter",
+            "#AWSTraining",
+            "#NetComLearning"
+        ],
+        "headline": "NetCom Learning’s Post",
+        "id": "7374452057900232704",
+        "images": null,
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_how-to-build-genai-apps-with-amazon-sagemaker-activity-7374452057900232704-Dc9t"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 8,
+        "post_text": "GenAI apps have moved far past chatbots. Businesses are using them to automate workflows, power financial insights, and scale across multimodal experiences. And at the center of this shift? Amazon SageMaker. From unifying the entire ML lifecycle to integrating seamlessly with AWS services like Bedrock, SageMaker is fast emerging as the go-to platform for building and scaling GenAI apps. In this week’s edition of NetGen AI, Explained! we break down: → Why SageMaker is moving beyond ML pipelines into GenAI ecosystems → The toolkit powering everything from LLMs to diffusion models → Real-world use cases in finance, automation, and RAG-based search → Practical steps to start building your first GenAI app Plus: Curated courses and special offers to help you and your teams get hands-on with AWS GenAI. Read the full newsletter below. #GenAI #AmazonSageMaker #GenAITools #Newsletter #AWSTraining #NetComLearning",
+        "post_text_html": "GenAI apps have moved far past chatbots.<br/><br/>Businesses are using them to automate workflows, power financial insights, and scale across multimodal experiences.<br/><br/>And at the center of this shift? Amazon SageMaker.<br/><br/>From unifying the entire ML lifecycle to integrating seamlessly with AWS services like Bedrock, SageMaker is fast emerging as the go-to platform for building and scaling GenAI apps.<br/><br/>In this week&#x2019;s edition of NetGen AI, Explained! we break down:<br/>&#xA0;&#x2192; Why SageMaker is moving beyond ML pipelines into GenAI ecosystems<br/> &#x2192; The toolkit powering everything from LLMs to diffusion models<br/> &#x2192; Real-world use cases in finance, automation, and RAG-based search<br/> &#x2192; Practical steps to start building your first GenAI app<br/><br/>Plus: Curated courses and special offers to help you and your teams get hands-on with AWS GenAI.<br/><br/>Read the full newsletter below.<br/><br/><a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenai&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#GenAI</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Famazonsagemaker&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AmazonSageMaker</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgenaitools&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#GenAITools</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnewsletter&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#Newsletter</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fawstraining&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AWSTraining</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetcomlearning&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#NetComLearning</a>",
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:21:19.562Z",
+        "title": "How to Build GenAI Apps with Amazon SageMaker? | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_how-to-build-genai-apps-with-amazon-sagemaker-activity-7374452057900232704-Dc9t",
+        "use_url": "https://www.linkedin.com/company/netcom-learning?trk=public_post_feed-actor-image",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": "netcom-learning",
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": null,
+        "video_thumbnail": null,
+        "videos": null
+    },
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-23T18:22:20.590Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": null,
+        "document_page_count": null,
+        "embedded_links": [
+            "https://www.linkedin.com/feed/hashtag/aicertsinaminute",
+            "https://lnkd.in/gxfHk3QU?trk=public_post-text",
+            "https://www.linkedin.com/feed/hashtag/aiinhealthcare",
+            "https://www.linkedin.com/feed/hashtag/aicerts",
+            "https://www.linkedin.com/feed/hashtag/aihealthcaretraining",
+            "https://www.linkedin.com/feed/hashtag/netcomlearning"
+        ],
+        "external_link_data": null,
+        "hashtags": [
+            "#AICERTsInAMinute",
+            "#AIinHealthcare",
+            "#AICerts",
+            "#AIHealthcareTraining",
+            "#NetComLearning"
+        ],
+        "headline": null,
+        "id": "7376320030298296321",
+        "images": null,
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_ai-certs-in-a-min-ep-4-the-future-of-activity-7376320030298296321-D75s"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 0,
+        "post_text": "Hospitals of the future won’t just treat patients. They’ll predict, personalize, and prevent. And AI is already making that possible today. In Episode 4 of #AICERTsInAMinute , we explore 4 groundbreaking AI tools transforming healthcare. Tune in to see how AI is revolutionizing medical imaging, accelerating diagnosis, and enabling personalized treatment planning. But integrating these tools in your workflow requires a specific skillset, knowledge, and awareness. So, are you looking to AI-enable your healthcare operations? As an AI-Certs Authorized Partner, our AI+ Healthcare course equips your team with practical insights, live training, and hands-on labs to master these AI tools and more. Level up your healthcare teams today. Explore our AI+ Healthcare course: https://lnkd.in/gxfHk3QU #AIinHealthcare #AICerts #AIHealthcareTraining #NetComLearning",
+        "post_text_html": "Hospitals of the future won&#x2019;t just treat patients. They&#x2019;ll predict, personalize, and prevent.<br/><br/>And AI is already making that possible today.<br/>In Episode 4 of <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faicertsinaminute&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AICERTsInAMinute</a>, we explore 4 groundbreaking AI tools transforming healthcare. <br/><br/>Tune in to see how AI is revolutionizing medical imaging, accelerating diagnosis, and enabling personalized treatment planning.<br/><br/>But integrating these tools in your workflow requires a specific skillset, knowledge, and awareness.<br/><br/>So, are you looking to AI-enable your healthcare operations?<br/><br/>As an AI-Certs Authorized Partner, our AI+ Healthcare course equips your team with practical insights, live training, and hands-on labs to master these AI tools and more.<br/><br/>Level up your healthcare teams today.<br/>Explore our AI+ Healthcare course: <a class=\"link\" href=\"https://lnkd.in/gxfHk3QU?trk=public_post-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>https://lnkd.in/gxfHk3QU</a><br/><br/><a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faiinhealthcare&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AIinHealthcare</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faicerts&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AICerts</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faihealthcaretraining&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AIHealthcareTraining</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetcomlearning&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#NetComLearning</a>",
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:21:23.626Z",
+        "title": "AI-Certs In a Min | Ep. 4 | The Future of Healthcare | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_ai-certs-in-a-min-ep-4-the-future-of-activity-7376320030298296321-D75s",
+        "use_url": "https://www.linkedin.com/company/netcom-learning",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": null,
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": 91,
+        "video_thumbnail": "https://media.licdn.com/dms/image/v2/D5605AQHtln4LRkIDWw/videocover-high/B56Zl3zkGYJ0B8-/0/1758651728172?e=2147483647&v=beta&t=60oiuCDPkqKlD0yhgF4dIHpoJarq3dmy3HqFFt8wotk",
+        "videos": [
+            "https://dms.licdn.com/playlist/vid/v2/D5605AQHtln4LRkIDWw/mp4-640p-30fp-crf28/B56Zl3zkGYJ0Bg-/0/1758651733453?e=2147483647&v=beta&t=yZ2yf6bjgT8rI26oZ0I1DnZBf5N6Wtn-MSOckqTJJrA"
+        ]
+    },
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-23T15:57:05.550Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": null,
+        "document_page_count": null,
+        "embedded_links": [
+            "https://cutt.ly/qrKvlMiY"
+        ],
+        "external_link_data": [
+            {
+                "post_external_description": null,
+                "post_external_image": "https://media.licdn.com/dms/image/v2/D4D24AQESy29SiSMpTw/video-liveannouncement-shrink_800_450/video-liveannouncement-shrink_800_450/0/1758566757997?e=2147483647&v=beta&t=5hLH4DBNiRTovRU2FofORe_XiTFxKXQxIa9XKm1uJ_4",
+                "post_external_title": "Building and Securing AI Agents with Cisco Observability and Security www.linkedin.com",
+                "post_external_url": null
+            }
+        ],
+        "hashtags": null,
+        "headline": "NetCom Learning’s Post",
+        "id": "7375963607760728064",
+        "images": null,
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_%F0%9D%97%95%F0%9D%98%82%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%A6%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%94%F0%9D%97%9C-activity-7375963607760728064-lEWw"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 12,
+        "post_text": "\"𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 & 𝗦𝗲𝗰𝘂𝗿𝗶𝗻𝗴 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗶𝘀𝗰𝗼\" 𝗖𝗹𝗶𝗰𝗸 𝗵𝗲𝗿𝗲 𝘁𝗼 𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗳𝗼𝗿 𝘁𝗵𝗲 𝘀𝗲𝘀𝘀𝗶𝗼𝗻: https://cutt.ly/qrKvlMiY Discover how Cisco’s observability and security solutions empower you to deploy AI agents securely across hybrid environments. Gain the visibility and resilience needed to stay ahead of evolving threats.",
+        "post_text_html": "&quot;&#x1D5D5;&#x1D602;&#x1D5F6;&#x1D5F9;&#x1D5F1;&#x1D5F6;&#x1D5FB;&#x1D5F4; &amp; &#x1D5E6;&#x1D5F2;&#x1D5F0;&#x1D602;&#x1D5FF;&#x1D5F6;&#x1D5FB;&#x1D5F4; &#x1D5D4;&#x1D5DC; &#x1D5D4;&#x1D5F4;&#x1D5F2;&#x1D5FB;&#x1D601;&#x1D600; &#x1D604;&#x1D5F6;&#x1D601;&#x1D5F5; &#x1D5D6;&#x1D5F6;&#x1D600;&#x1D5F0;&#x1D5FC;&quot;<br/>&#x1D5D6;&#x1D5F9;&#x1D5F6;&#x1D5F0;&#x1D5F8; &#x1D5F5;&#x1D5F2;&#x1D5FF;&#x1D5F2; &#x1D601;&#x1D5FC; &#x1D5FF;&#x1D5F2;&#x1D5F4;&#x1D5F6;&#x1D600;&#x1D601;&#x1D5F2;&#x1D5FF; &#x1D5F3;&#x1D5FC;&#x1D5FF; &#x1D601;&#x1D5F5;&#x1D5F2; &#x1D600;&#x1D5F2;&#x1D600;&#x1D600;&#x1D5F6;&#x1D5FC;&#x1D5FB;: <a class=\"link\" href=\"https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fcutt%2Ely%2FqrKvlMiY&amp;urlhash=-6fk&amp;trk=public_post-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>https://cutt.ly/qrKvlMiY</a><br/><br/>Discover how Cisco&#x2019;s observability and security solutions empower you to deploy AI agents securely across hybrid environments.<br/>Gain the visibility and resilience needed to stay ahead of evolving threats.",
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:21:26.461Z",
+        "title": "\"𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 & 𝗦𝗲𝗰𝘂𝗿𝗶𝗻𝗴 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 𝘄𝗶𝘁𝗵 𝗖𝗶𝘀𝗰𝗼\" 𝗖𝗹𝗶𝗰𝗸 𝗵𝗲𝗿𝗲 𝘁𝗼 𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗳𝗼𝗿 𝘁𝗵𝗲 𝘀𝗲𝘀𝘀𝗶𝗼𝗻: https://cutt.ly/qrKvlMiY Discover how Cisco’s… | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_%F0%9D%97%95%F0%9D%98%82%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%A6%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%94%F0%9D%97%9C-activity-7375963607760728064-lEWw",
+        "use_url": "https://www.linkedin.com/company/netcom-learning?trk=public_post_feed-actor-image",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": "netcom-learning",
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": null,
+        "video_thumbnail": null,
+        "videos": null
+    },
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-23T14:00:45.593Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": null,
+        "document_page_count": null,
+        "embedded_links": [
+            "https://lnkd.in/gZ5Fff9e?trk=public_post-text",
+            "https://www.linkedin.com/feed/hashtag/cisco",
+            "https://www.linkedin.com/feed/hashtag/certifications",
+            "https://www.linkedin.com/feed/hashtag/networking",
+            "https://www.linkedin.com/feed/hashtag/cybersecurity",
+            "https://www.linkedin.com/feed/hashtag/ciscou",
+            "https://www.linkedin.com/feed/hashtag/netcomlearning"
+        ],
+        "external_link_data": null,
+        "hashtags": [
+            "#Cisco",
+            "#Certifications",
+            "#Networking",
+            "#CyberSecurity",
+            "#CiscoU",
+            "#Netcomlearning"
+        ],
+        "headline": "NetCom Learning’s Post",
+        "id": "7376254200655118336",
+        "images": [
+            "https://media.licdn.com/dms/image/v2/D5622AQGD_Yyz7fym5A/feedshare-shrink_1280/B56Zl24G40KEAs-/0/1758636044777?e=2147483647&v=beta&t=c73oY3LsQd3UpF-X2N8Ys2dLwiBdcAcfxDrroTN_kaE"
+        ],
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_cisco-certifications-networking-activity-7376254200655118336-XLap"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 11,
+        "post_text": "The IT industry is getting saturated. And Cisco certifications are the best way to give yourself an edge. Whether you’re aiming for networking, cybersecurity, or cloud expertise, Cisco credentials give you: → Worldwide industry recognition, → Higher growth potential, and → Skills that keep you ahead. Our latest blog highlights the top 5 Cisco Certifications and their details, giving you a clear path to choose the right certification for your career growth. Read the full blog here: https://lnkd.in/gZ5Fff9e #Cisco #Certifications #Networking #CyberSecurity #CiscoU #Netcomlearning",
+        "post_text_html": "The IT industry is getting saturated.&#xA0;<br/>And Cisco certifications are the best way to give yourself an edge.<br/><br/>Whether you&#x2019;re aiming for networking, cybersecurity, or cloud expertise, Cisco credentials give you:<br/>&#x2192; Worldwide industry recognition,&#xA0;<br/>&#x2192; Higher growth potential, and<br/>&#x2192; Skills that keep you ahead.<br/><br/>Our latest blog highlights the top 5 Cisco Certifications and their details, giving you a clear path to choose the right certification for your career growth.<br/><br/>Read the full blog here: <a class=\"link\" href=\"https://lnkd.in/gZ5Fff9e?trk=public_post-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>https://lnkd.in/gZ5Fff9e</a><br/><br/><a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcisco&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#Cisco</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcertifications&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#Certifications</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetworking&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#Networking</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcybersecurity&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#CyberSecurity</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fciscou&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#CiscoU</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetcomlearning&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#Netcomlearning</a>",
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:21:31.456Z",
+        "title": "#cisco #certifications #networking #cybersecurity #ciscou #netcomlearning | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_cisco-certifications-networking-activity-7376254200655118336-XLap",
+        "use_url": "https://www.linkedin.com/company/netcom-learning?trk=public_post_feed-actor-image",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": "netcom-learning",
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": null,
+        "video_thumbnail": null,
+        "videos": null
+    },
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-23T12:20:40.581Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": null,
+        "document_page_count": null,
+        "embedded_links": [
+            "https://cutt.ly/xrKpUVwX"
+        ],
+        "external_link_data": [
+            {
+                "post_external_description": null,
+                "post_external_image": "https://media.licdn.com/dms/image/v2/D4D24AQETx5zVI1mBlg/video-liveannouncement-shrink_800_450/video-liveannouncement-shrink_800_450/0/1758630035828?e=2147483647&v=beta&t=uGXpJDNhqaOy_NvLzOIqGrNvaja6SLEzGY41NFGokDY",
+                "post_external_title": "Google Cloud Vertex AI Masterclass: ML Models made simple www.linkedin.com",
+                "post_external_url": null
+            }
+        ],
+        "hashtags": null,
+        "headline": "NetCom Learning’s Post",
+        "id": "7376229013834522625",
+        "images": null,
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_click-here-to-know-more-httpscuttly-activity-7376229013834522625-zogw"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 7,
+        "post_text": "Click here to know more: https://cutt.ly/xrKpUVwX Join our free Google Cloud Vertex AI Masterclass to learn how to effortlessly build, train, and deploy machine learning models. Discover end-to-end ML workflows, Auto ML tools, and scalable deployment with Vertex AI.",
+        "post_text_html": "Click here to know more: <a class=\"link\" href=\"https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fcutt%2Ely%2FxrKpUVwX&amp;urlhash=t9l7&amp;trk=public_post-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>https://cutt.ly/xrKpUVwX</a><br/><br/>Join our free Google Cloud Vertex AI Masterclass to learn how to effortlessly build, train, and deploy machine learning models. Discover end-to-end ML workflows, Auto ML tools, and scalable deployment with Vertex AI.",
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:21:33.858Z",
+        "title": "Click here to know more: https://cutt.ly/xrKpUVwX Join our free Google Cloud Vertex AI Masterclass to learn how to effortlessly build, train, and deploy machine learning models. Discover end-to-end… | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_click-here-to-know-more-httpscuttly-activity-7376229013834522625-zogw",
+        "use_url": "https://www.linkedin.com/company/netcom-learning?trk=public_post_feed-actor-image",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": "netcom-learning",
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": null,
+        "video_thumbnail": null,
+        "videos": null
+    },
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-22T18:30:03.992Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": "https://media.licdn.com/dms/image/v2/D561FAQGAYjuDf6-r_g/feedshare-document-cover-images_480/B56Zlyf9FTI4BM-/0/1758562612971?e=2147483647&v=beta&t=fJrAEmJlKpJRIWWjFkEUZGIjvBX_w28O9K12LjXNlow",
+        "document_page_count": 6,
+        "embedded_links": [
+            "https://shorturl.at/GIsEL",
+            "https://shorturl.at/VLxVE",
+            "https://www.linkedin.com/feed/hashtag/weeklyaidigest",
+            "https://www.linkedin.com/feed/hashtag/airoundup",
+            "https://www.linkedin.com/feed/hashtag/netgenaiexplained",
+            "https://www.linkedin.com/feed/hashtag/aitrends",
+            "https://www.linkedin.com/feed/hashtag/netcomlearning"
+        ],
+        "external_link_data": null,
+        "hashtags": [
+            "#WeeklyAIDigest",
+            "#AIRoundUp",
+            "#NetGenAIExplained",
+            "#AITrends",
+            "#NetComLearning"
+        ],
+        "headline": "NetCom Learning’s Post",
+        "id": "7375959586098483201",
+        "images": null,
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_weekly-ai-round-up-activity-7375959586098483201-a3Al"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 6,
+        "post_text": "Last week, we saw major shifts in the industry. From Microsoft looking to expand Copilot’s capabilities with new AI models, to OpenAI is pushing into large-scale infrastructure. But the biggest headline to note? The shifting workforce dynamics. AI-led layoffs across major tech firms point to a new reality: roles are evolving, and so must skills. We’ve pulled together the key highlights so you can see where the next big opportunities are opening up. Swipe through to catch up. Want deeper insights and training to turn these insights into business impact? Subscribe to our newsletter: https://shorturl.at/GIsEL Looking to keep your workforce ahead of the AI curve? Explore our AI training courses today: https://shorturl.at/VLxVE #WeeklyAIDigest #AIRoundUp #NetGenAIExplained #AITrends #NetComLearning",
+        "post_text_html": "Last week, we saw major shifts in the industry.&#xA0;<br/>From Microsoft looking to expand Copilot&#x2019;s capabilities with new AI models, to OpenAI is pushing into large-scale infrastructure.<br/><br/>But the biggest headline to note? The shifting workforce dynamics. AI-led layoffs across major tech firms point to a new reality: roles are evolving, and so must skills.<br/><br/>We&#x2019;ve pulled together the key highlights so you can see where the next big opportunities are opening up.<br/><br/>Swipe through to catch up.<br/><br/>Want deeper insights and training to turn these insights into business impact?<br/><br/>Subscribe to our newsletter: <a class=\"link\" href=\"https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fshorturl%2Eat%2FGIsEL&amp;urlhash=Xrfu&amp;trk=public_post-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>https://shorturl.at/GIsEL</a><br/><br/>Looking to keep your workforce ahead of the AI curve?<br/><br/>Explore our AI training courses today: <a class=\"link\" href=\"https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fshorturl%2Eat%2FVLxVE&amp;urlhash=srbw&amp;trk=public_post-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>https://shorturl.at/VLxVE</a><br/><br/><a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fweeklyaidigest&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#WeeklyAIDigest</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fairoundup&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AIRoundUp</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetgenaiexplained&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#NetGenAIExplained</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faitrends&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AITrends</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetcomlearning&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#NetComLearning</a><br/>",
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:21:40.506Z",
+        "title": "Weekly AI Round Up | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_weekly-ai-round-up-activity-7375959586098483201-a3Al",
+        "use_url": "https://www.linkedin.com/company/netcom-learning?trk=public_post_feed-actor-image",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": "netcom-learning",
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": null,
+        "video_thumbnail": null,
+        "videos": null
+    },
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-22T18:00:19.471Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": null,
+        "document_page_count": null,
+        "embedded_links": null,
+        "external_link_data": null,
+        "hashtags": null,
+        "headline": "NetCom Learning’s Post",
+        "id": "7375952101236994049",
+        "images": null,
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_artificialintelligence-ai-freetraining-activity-7375952101236994049-mc51"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 0,
+        "post_text": null,
+        "post_text_html": null,
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:21:52.299Z",
+        "title": "#artificialintelligence #ai #freetraining #learnai #futureofwork #upskilling #techinnovation #careergrowth | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_artificialintelligence-ai-freetraining-activity-7375952101236994049-mc51",
+        "use_url": "https://www.linkedin.com/company/netcom-learning",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": null,
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": null,
+        "video_thumbnail": null,
+        "videos": null
+    },
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-22T16:56:16.496Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": null,
+        "document_page_count": null,
+        "embedded_links": [
+            "https://lnkd.in/g2-BYCFf",
+            "https://www.linkedin.com/feed/hashtag/cisco",
+            "https://www.linkedin.com/feed/hashtag/aiagents",
+            "https://www.linkedin.com/feed/hashtag/ciscotraining",
+            "https://www.linkedin.com/feed/hashtag/aisecurity",
+            "https://www.linkedin.com/feed/hashtag/netcomlearning"
+        ],
+        "external_link_data": null,
+        "hashtags": [
+            "#Cisco",
+            "#AIagents",
+            "#CiscoTraining",
+            "#AIsecurity",
+            "#NetComLearning"
+        ],
+        "headline": null,
+        "id": "7375935982602395648",
+        "images": null,
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_live-webinar-building-secure-ai-agents-activity-7375935982602395648-Hmfj"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 0,
+        "post_text": "How do you build secure, reliable Agentic AI solution that scale with ease? Join our live webinar “Building and Securing AI Agents with Cisco” and learn the exact tips and strategies. In this 40-minute session, you’ll learn how to: → Design and deploy enterprise-ready AI agents → Secure them with Zero Trust network access & runtime protection → Gain complete visibility with ThousandEyes If you’re serious about building secure, scalable, and compliant AI agents, this webinar is for you. Sept 23rd | 12 PM Register here: https://lnkd.in/g2-BYCFf #Cisco #AIagents #CiscoTraining #AIsecurity #NetComLearning",
+        "post_text_html": "How do you build secure, reliable Agentic AI solution that scale with ease?<br/><br/>Join our live webinar &#x201C;Building and Securing AI Agents with Cisco&#x201D; and learn the exact tips and strategies.<br/><br/>In this 40-minute session, you&#x2019;ll learn how to:<br/>&#x2192; Design and deploy enterprise-ready AI agents<br/>&#x2192; Secure them with Zero Trust network access &amp; runtime protection<br/>&#x2192; Gain complete visibility with ThousandEyes<br/><br/>If you&#x2019;re serious about building secure, scalable, and compliant AI agents, this webinar is for you.<br/><br/>Sept 23rd | 12 PM <br/><br/>Register here: <a class=\"link\" href=\"https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg2-BYCFf&amp;urlhash=i7Mj&amp;trk=public_post-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>https://lnkd.in/g2-BYCFf</a><br/><br/><a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcisco&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#Cisco</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faiagents&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AIagents</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fciscotraining&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#CiscoTraining</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faisecurity&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AIsecurity</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetcomlearning&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#NetComLearning</a>",
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:21:54.837Z",
+        "title": "Live Webinar | Building Secure AI Agents with Cisco | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_live-webinar-building-secure-ai-agents-activity-7375935982602395648-Hmfj",
+        "use_url": "https://www.linkedin.com/company/netcom-learning",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": null,
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": 73,
+        "video_thumbnail": "https://media.licdn.com/dms/image/v2/D5605AQHOFgn1Z7jHyg/videocover-high/B56ZlyWfr9KECE-/0/1758560163494?e=2147483647&v=beta&t=ksOUTnhk_PaZ5zoNy6wsoNU8RQsnl-ygG_KxzDZ3iug",
+        "videos": [
+            "https://dms.licdn.com/playlist/vid/v2/D5605AQHOFgn1Z7jHyg/mp4-720p-30fp-crf28/B56ZlyWfr9KEBs-/0/1758560170429?e=2147483647&v=beta&t=GIZDnqncQP-oEfZhM5K_KwLIptTfrSMWOduFFbso0eo"
+        ]
+    },
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-22T13:52:55.758Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": "https://media.licdn.com/dms/image/v2/D561FAQEUJg1LuftX3w/feedshare-document-cover-images_480/B56ZlxqLC4IABQ-/0/1758548509553?e=2147483647&v=beta&t=09A0Cct819EZ1yFqj0enXiPFID1cO_ig1fRUxC5pksI",
+        "document_page_count": 6,
+        "embedded_links": [
+            "https://www.linkedin.com/company/netcom-learning?trk=public_post-text",
+            "https://lnkd.in/gzKNZ9sC",
+            "https://www.linkedin.com/feed/hashtag/microsofttraining",
+            "https://www.linkedin.com/feed/hashtag/azureskills",
+            "https://www.linkedin.com/feed/hashtag/successstory",
+            "https://www.linkedin.com/feed/hashtag/workforceupskilling",
+            "https://www.linkedin.com/feed/hashtag/netcomlearning"
+        ],
+        "external_link_data": null,
+        "hashtags": [
+            "#MicrosoftTraining",
+            "#AzureSkills",
+            "#SuccessStory",
+            "#WorkforceUpskilling",
+            "#NetComLearning"
+        ],
+        "headline": "NetCom Learning’s Post",
+        "id": "7375889842171252736",
+        "images": null,
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_case-study-custom-microsoft-training-for-activity-7375889842171252736-l3ac"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 9,
+        "post_text": "We helped a federal law enforcement agency modernize its systems and strengthen data security with a custom training program. The agency relied on a legacy information system to process sensitive inmate records but faced recurring risks of unauthorized access and data misuse. With a migration to Active Directory on the horizon, they needed to quickly upskill over 300 employees to ensure a smooth and secure transition. That’s where NetCom Learning stepped in. This case details how we built our customized, hands-on training program on the Fundamentals of Active Directory, delivered by a Microsoft Certified Trainer helped the team execute a successful migration and build a future-ready IT infrastructure ready to meet modern security demands. Swipe through to see how we helped them achieve this transformation. Inspired? Let’s make your organization the next success story. Explore our MS Azure skilling programs today: https://lnkd.in/gzKNZ9sC #MicrosoftTraining #AzureSkills #SuccessStory #WorkforceUpskilling #NetComLearning",
+        "post_text_html": "We helped a federal law enforcement agency modernize its systems and strengthen data security with a custom training program.<br/><br/>The agency relied on a legacy information system to process sensitive inmate records but faced recurring risks of unauthorized access and data misuse. With a migration to Active Directory on the horizon, they needed to quickly upskill over 300 employees to ensure a smooth and secure transition.<br/><br/>That&#x2019;s where <a class=\"link\" href=\"https://www.linkedin.com/company/netcom-learning?trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>NetCom Learning</a> stepped in.<br/><br/>This case details how we built our customized, hands-on training program on the Fundamentals of Active Directory, delivered by a Microsoft Certified Trainer helped the team execute a successful migration and build a future-ready IT infrastructure ready to meet modern security demands.<br/><br/>Swipe through to see how we helped them achieve this transformation.<br/><br/>Inspired? Let&#x2019;s make your organization the next success story.<br/><br/>Explore our MS Azure skilling programs today: <a class=\"link\" href=\"https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgzKNZ9sC&amp;urlhash=dQjD&amp;trk=public_post-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>https://lnkd.in/gzKNZ9sC</a><br/><br/><a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmicrosofttraining&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#MicrosoftTraining</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fazureskills&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AzureSkills</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsuccessstory&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#SuccessStory</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fworkforceupskilling&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#WorkforceUpskilling</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetcomlearning&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#NetComLearning</a><br/>",
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [
+            {
+                "link": "https://www.linkedin.com/company/netcom-learning?trk=public_post-text",
+                "name": "NetCom Learning"
+            }
+        ],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:22:01.319Z",
+        "title": "Case Study: Custom Microsoft Training for a Law Agency | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_case-study-custom-microsoft-training-for-activity-7375889842171252736-l3ac",
+        "use_url": "https://www.linkedin.com/company/netcom-learning?trk=public_post_feed-actor-image",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": "netcom-learning",
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": null,
+        "video_thumbnail": null,
+        "videos": null
+    },
+    {
+        "account_type": "Organization",
+        "author_profile_pic": "https://media.licdn.com/dms/image/v2/D4D0BAQHLWsi1hbotjQ/company-logo_100_100/B4DZknkmv6JQAU-/0/1757305531933/netcom_learning_logo?e=2147483647&v=beta&t=6gn4xUtdOzJFtjvbFOQ3KJ5vIbsn7MmA3o3IDggT-y4",
+        "date_posted": "2025-09-21T14:51:51.095Z",
+        "discovery_input": {
+            "url": "https://www.linkedin.com/company/netcom-learning/"
+        },
+        "document_cover_image": null,
+        "document_page_count": null,
+        "embedded_links": [
+            "https://ca.linkedin.com/in/cloudanum?trk=public_post-text",
+            "https://lnkd.in/gd6sfgsc",
+            "https://www.linkedin.com/feed/hashtag/vertexai",
+            "https://www.linkedin.com/feed/hashtag/googlecloud",
+            "https://www.linkedin.com/feed/hashtag/machinelearning",
+            "https://www.linkedin.com/feed/hashtag/aiessentials",
+            "https://www.linkedin.com/feed/hashtag/freewebinar",
+            "https://www.linkedin.com/feed/hashtag/netcomlearning"
+        ],
+        "external_link_data": null,
+        "hashtags": [
+            "#VertexAI",
+            "#GoogleCloud",
+            "#MachineLearning",
+            "#AIEssentials",
+            "#FreeWebinar",
+            "#NetComLearning"
+        ],
+        "headline": null,
+        "id": "7375542282625855488",
+        "images": null,
+        "input": {
+            "url": "https://www.linkedin.com/posts/netcom-learning_vertexai-googlecloud-machinelearning-activity-7375542282625855488-ifOT"
+        },
+        "more_articles_by_user": null,
+        "more_relevant_posts": null,
+        "num_comments": 0,
+        "num_connections": null,
+        "num_likes": 0,
+        "post_text": "Building ML models can be quite complicated. But Google Cloud’s Vertex AI provides a unified ML platform that simplifies the entire workflow, from data prep to deployment. Join Dr. Imran Ahmad, PhD for an exclusive free masterclass, where he’ll walk you through how to harness Vertex AI for scalable, enterprise-ready ML solutions. In just 2 hours, you’ll learn: → How Vertex AI unifies the ML lifecycle → Simplified data preparation & management workflows → AutoML vs custom model training → Seamless deployment and monitoring at scale Master the tools that are shaping the next generation of ML innovation. Sep 24th | 12 PM EST | 2 Hours Seats are limited. Secure yours today. Register now: https://lnkd.in/gd6sfgsc #VertexAI #GoogleCloud #MachineLearning #AIEssentials #FreeWebinar #NetComLearning",
+        "post_text_html": "Building ML models can be quite complicated.<br/>But Google Cloud&#x2019;s Vertex AI provides a unified ML platform that simplifies the entire workflow, from data prep to deployment.<br/><br/>Join Dr. <a class=\"link\" href=\"https://ca.linkedin.com/in/cloudanum?trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>Imran Ahmad, PhD</a> for an exclusive free masterclass, where he&#x2019;ll walk you through how to harness Vertex AI for scalable, enterprise-ready ML solutions.<br/><br/>In just 2 hours, you&#x2019;ll learn:<br/>&#x2192; How Vertex AI unifies the ML lifecycle<br/>&#x2192; Simplified data preparation &amp; management workflows<br/>&#x2192; AutoML vs custom model training<br/>&#x2192; Seamless deployment and monitoring at scale<br/><br/>Master the tools that are shaping the next generation of ML innovation.<br/>Sep 24th | 12 PM EST | 2 Hours<br/>Seats are limited. Secure yours today.<br/><br/>Register now: <a class=\"link\" href=\"https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fgd6sfgsc&amp;urlhash=9QQp&amp;trk=public_post-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>https://lnkd.in/gd6sfgsc</a><br/><br/><a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fvertexai&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#VertexAI</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgooglecloud&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#GoogleCloud</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmachinelearning&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#MachineLearning</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faiessentials&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#AIEssentials</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffreewebinar&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#FreeWebinar</a> <a class=\"link\" href=\"https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetcomlearning&amp;trk=public_post-text\" target=\"_self\" data-tracking-control-name=\"public_post-text\" data-tracking-will-navigate>#NetComLearning</a>",
+        "post_type": "post",
+        "repost": {
+            "repost_attachments": null,
+            "repost_date": null,
+            "repost_hangtags": null,
+            "repost_id": null,
+            "repost_text": null,
+            "repost_url": null,
+            "repost_user_id": null,
+            "repost_user_name": null,
+            "repost_user_title": null,
+            "tagged_companies": null,
+            "tagged_users": null
+        },
+        "tagged_companies": [],
+        "tagged_people": [],
+        "timestamp": "2025-09-24T09:22:07.550Z",
+        "title": "#vertexai #googlecloud #machinelearning #aiessentials #freewebinar #netcomlearning | NetCom Learning",
+        "top_visible_comments": null,
+        "url": "https://www.linkedin.com/posts/netcom-learning_vertexai-googlecloud-machinelearning-activity-7375542282625855488-ifOT",
+        "use_url": "https://www.linkedin.com/company/netcom-learning",
+        "user_articles": 0,
+        "user_followers": 69719,
+        "user_id": null,
+        "user_posts": 0,
+        "user_title": null,
+        "video_duration": 71,
+        "video_thumbnail": "https://media.licdn.com/dms/image/v2/D5605AQEuz2cB1gKEQw/videocover-high/B56Zlswc56JsB8-/0/1758466300059?e=2147483647&v=beta&t=S3uBwfyIyJe1NBkGkM1NkMt01rq5GhaBmdULKP04bfQ",
+        "videos": [
+            "https://dms.licdn.com/playlist/vid/v2/D5605AQEuz2cB1gKEQw/mp4-720p-30fp-crf28/B56Zlswc56JsBk-/0/1758466304756?e=2147483647&v=beta&t=BUaboEY2Dlk3knuaEsW3rdlAiSeZltSgZbKPQw50RqA"
+        ]
+    }
+]

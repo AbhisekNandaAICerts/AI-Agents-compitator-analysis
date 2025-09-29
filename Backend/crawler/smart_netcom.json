@@ -1,0 +1,16 @@
+{
+  "start_url": "https://www.netcomlearning.com/",
+  "scraped_at": "2025-09-22T11:41:35Z",
+  "results": [
+    {
+      "url": "https://www.netcomlearning.com/",
+      "title": "Empower Your IT Career with NetCom Learning - IT Training and Certification Courses",
+      "classification": "course",
+      "rendered_with_playwright": false,
+      "links_sample": [
+        "https://www.netcomlearning.com/"
+      ]
+    }
+  ],
+  "visited_count": 1
+}
