@@ -1,0 +1,5 @@
+# Ignore virtual environments
+compitator_env/
+.env
+__pycache__/
+*.pyc
